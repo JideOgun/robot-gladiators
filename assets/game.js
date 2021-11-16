@@ -151,7 +151,6 @@ var endGame = function () {
   endGame();
 };
 
-
 //play again
 startGame();
 };
